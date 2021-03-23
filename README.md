@@ -22,7 +22,7 @@ Follow me:
   
 **About me:**
 <br/>
-Hi there, I'm Bilal Durnagöl. I am Computer Engineer in Turkey and Swift Developer. My life goes by Code, Fitness and drinking coffee. I follow and develop the apple ecosystem.
+Hi there, I'm Bilal Durnagöl. I am Computer Engineer in Turkey and Swift Developer. My life goes by Code, Fitness and drinking coffee. I follow and develop the Apple ecosystem.
 
 - 🔭 I’m currently working on Home :)
 - 🌱 I’m currently learning Reactive Programming
