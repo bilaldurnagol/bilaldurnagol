@@ -6,6 +6,12 @@ Follow me:
   <img align="left" alt="Bilal Durnagöl | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg"/>
 </a>
 
+   <a href="https://medium.com/@BilalDurnagol">
+  <img align="left" alt="Bilal Durnagöl | Twitter" width="21px" src="https://miro.medium.com/max/2000/1*jfdwtvU6V6g99q3G7gq7dQ.png"/>
+</a>
+
+
+
 <br/>
 <br/>
   
