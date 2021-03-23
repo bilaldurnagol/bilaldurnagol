@@ -7,7 +7,7 @@ Follow me:
 </a>
 
    <a href="https://medium.com/@BilalDurnagol">
-  <img align="left" alt="Bilal Durnagöl | Twitter" width="21px" src="https://miro.medium.com/max/2000/1*jfdwtvU6V6g99q3G7gq7dQ.png"/>
+  <img align="left" alt="Bilal Durnagöl | Twitter" width="21px" src="https://miro.medium.com/max/1000/1*Ra88BZ-CSTovFS2ZSURBgg.png"/>
 </a>
 
 
