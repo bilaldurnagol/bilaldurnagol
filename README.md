@@ -10,8 +10,13 @@ Follow me:
   <img align="left" alt="Bilal Durnagöl | Medium" width="21px" src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/medium.svg"/>
 </a>
 
+   <a href="https://www.instagram.com/bilaldurnagol/">
+  <img align="left" alt="Bilal Durnagöl | Instagram" width="21px" src="https://github.com/shgysk8zer0/logos/blob/master/instagram.svg"/>
+</a>
 
-
+   <a href="https://www.linkedin.com/in/bilaldurnagol">
+  <img align="left" alt="Bilal Durnagöl | LinkedIn" width="21px" src="https://github.com/shgysk8zer0/logos/blob/master/linkedin.svg"/>
+</a>
 <br/>
 <br/>
   
